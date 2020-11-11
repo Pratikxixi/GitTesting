@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val secondCommit = "second"
         val third = "second"
+        val seventh="This is second master commit"
     }
 }
