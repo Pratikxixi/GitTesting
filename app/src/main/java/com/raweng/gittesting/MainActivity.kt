@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         val third = "second"
         val fourth = "Fourth"
         val fiftth= "Fifth"
+        val seventh="This is second master commit"
     }
 }
